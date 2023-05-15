@@ -1,4 +1,4 @@
-# vaultwarden-flyio
+# fly.toml
 ```toml
 app = "vaultwarden"
 primary_region = "hkg"
